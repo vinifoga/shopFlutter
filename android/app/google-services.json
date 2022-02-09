@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572748730444",
+    "project_id": "fluttershop-fda8b",
+    "storage_bucket": "fluttershop-fda8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572748730444:android:59f0d2fbca626c7baaa4e9",
+        "android_client_info": {
+          "package_name": "br.com.fogaca.shop.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572748730444-kcism4qnmoq55bopk5rk9pkmn244il0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQgmPyfaWbz95j0hXWpoBVQ28SLvTCeO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572748730444-kcism4qnmoq55bopk5rk9pkmn244il0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
